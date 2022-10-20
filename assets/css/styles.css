@@ -30,7 +30,7 @@ body {
   width: 15%;
   background-color: rgb(221, 187, 248);
   padding: 10px 20px 0px;
-  padding-top: 38px;
+  padding-top: 10px;
   text-align: center;
   font-size: 25px;
 }
@@ -42,13 +42,13 @@ body {
 }
 .content {
   background-color: white;
-  min-height: 300px;
+  min-height: 60%;
   padding: 20px;
 }
 .footer {
   background-color: rgb(147, 98, 187);
-  min-height: 150px;
-  padding-top: 20px;
+  min-height: 8%;
+  padding-top: 15px;
   color:#dbdbdb;
 }
 
